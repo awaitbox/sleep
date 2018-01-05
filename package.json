@@ -1,0 +1,25 @@
+{
+  "name": "@awaitbox/sleep",
+  "version": "0.0.0",
+  "main": "src/index.js",
+  "esnext": "src/index.js",
+  "module": "src/index.js",
+  "homepage": "https://github.com/awaitbox/sleep",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:awaitbox/sleep.git"
+  },
+  "bugs": {
+    "url": "https://github.com/awaitbox/sleep/issues"
+  },
+  "keywords": [
+    "async",
+    "async-functions",
+    "async-await",
+    "await",
+    "web-development",
+    "webdev",
+    "timer",
+    "sleep"
+  ]
+}
