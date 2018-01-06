@@ -4,6 +4,8 @@
 
 Await for a certain amount of time.
 
+#### `npm i @awaitbox/sleep --save`
+
 The `sleep` async function returns a promise that will resolve after the
 specified amount of time. This is a convenient alternative for `setTimeout`.
 This is inspired from `sleep(...)` in the C language, except that time is
