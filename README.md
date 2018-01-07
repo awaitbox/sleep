@@ -40,7 +40,7 @@ import sleep from '@awaitbox/sleep'
 
 fetch( ... )
   .then( ... )
-  .then( sleep.bind( 1000 ) ) // passes data through after 1 second
+  .then( sleep.bind( null, 1000 ) ) // passes data through after 1 second
   .then( data => console.log( 'use data for the awesome!', data ) )
 ```
 
